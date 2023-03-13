@@ -8,7 +8,13 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+/[Pp]ackages/
 /[Mm]emoryCaptures/
+/.plastic/
+/UserSettings/
+/.vsconfig
+/.vscode/
+/ignore.conf
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
